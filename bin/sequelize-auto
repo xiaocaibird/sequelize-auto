@@ -90,7 +90,8 @@ function getDefaultPort(dialect) {
 var auto = new sequelizeAuto(argv.d, argv.u, (!! argv.x ? ('' + argv.x) : null), configFile);
 
 auto.run(function (err) {
-  if (err) throw err
-  else
-  console.log('Done!');
+  if (err) {
+    console.error(err);
+    process.exit(1);
+  } else console.log('Done!');
 });
