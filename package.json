@@ -1,7 +1,7 @@
 {
   "name": "sequelize-auto-xiaocaibird-fork",
-  "version": "0.5.1",
-  "description": "sequelize-auto.",
+  "version": "0.5.2",
+  "description": "fork sequelize-auto(0.4.29)",
   "main": "index",
   "keywords": [
   ],
