@@ -1,12 +1,12 @@
 {
   "name": "sequelize-auto-xiaocaibird-fork",
-  "version": "0.4.29",
+  "version": "0.4.30",
   "description": "sequelize-auto.",
   "main": "index",
   "keywords": [
   ],
   "bin": {
-    "sequelize-auto": "bin/sequelize-auto"
+    "sequelize-auto-xcb": "bin/sequelize-auto"
   },
   "repository": {
     "type": "git",
