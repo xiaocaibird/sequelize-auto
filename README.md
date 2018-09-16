@@ -1,3 +1,6 @@
+#fork sequelize-auto(0.4.29)
+
+
 # Sequelize-Auto
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/sequelize/sequelize-auto.svg)](https://greenkeeper.io/)
